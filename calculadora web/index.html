@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Calculadora Web</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="calculator-card">
+    <h1>Calculadora</h1>
+    <p>Ingresa dos números y elige una operación.</p>
+
+    <div class="inputs-row">
+      <label>
+        Número 1
+        <input type="number" id="number1" placeholder="0" />
+      </label>
+      <label>
+        Número 2
+        <input type="number" id="number2" placeholder="0" />
+      </label>
+    </div>
+
+    <div class="buttons-grid">
+      <button type="button" data-op="add">+</button>
+      <button type="button" data-op="subtract">-</button>
+      <button type="button" data-op="multiply">×</button>
+      <button type="button" data-op="divide">÷</button>
+      <button type="button" data-op="power">x²</button>
+    </div>
+
+    <div class="result-card">
+      <span>Resultado:</span>
+      <strong id="result">0</strong>
+    </div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
