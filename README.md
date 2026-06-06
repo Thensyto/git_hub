@@ -17,7 +17,7 @@ Aplicación de consola desarrollada en Python capaz de realizar:
 
 #### Captura
 
-![Calculadora Python](capturas/calculadora-python.png)
+![Calculadora Python](capturas/calculadora python.png)
 
 ---
 
