@@ -1,29 +1,31 @@
-  # Prácticas de Git y Programación
+# Prácticas de Git y Programación
 
 ## Descripción
 
-Este repositorio contiene diferentes proyectos y ejercicios realizados con fines de práctica. El objetivo principal es aprender el uso de Git, GitHub y el control de versiones mientras se desarrollan programas sencillos en Python y aplicaciones web básicas.
+Este repositorio contiene diversos proyectos y ejercicios realizados con fines de aprendizaje. El objetivo principal es practicar el uso de Git y GitHub mientras se desarrollan aplicaciones sencillas utilizando Python y tecnologías web.
 
-## Contenido del Repositorio
+## Proyectos Incluidos
 
 ### Calculadora en Python
 
-Programa desarrollado en Python que permite realizar operaciones matemáticas básicas:
+Aplicación de consola desarrollada en Python capaz de realizar:
 
 * Suma
 * Resta
 * Multiplicación
 * División
 
+#### Captura
+
+![Calculadora Python](capturas/calculadora-python.png)
+
+---
+
 ### Calculadora Web
 
-Aplicación desarrollada con:
+Aplicación desarrollada utilizando HTML, CSS y JavaScript.
 
-* HTML
-* CSS
-* JavaScript
-
-Funciones disponibles:
+Funciones:
 
 * Suma
 * Resta
@@ -31,15 +33,25 @@ Funciones disponibles:
 * División
 * Potencias
 
-## Otros Ejercicios
+#### Captura de la aplicación
 
-El repositorio también incluye programas sencillos utilizados para practicar:
+![Calculadora Web](capturas/calculadora-web.png)
 
-* Operaciones matemáticas básicas
-* Entrada y salida de datos
-* Uso de funciones
-* Pruebas de Git y GitHub
-* Versionado de proyectos
+#### Estructura del proyecto
+
+**HTML**
+
+![HTML](capturas/calculadora-web-html.png)
+
+**JavaScript**
+
+![JavaScript](capturas/calculadora-web-js.png)
+
+**CSS**
+
+![CSS](capturas/calculadora-web-css.png)
+
+---
 
 ## Tecnologías Utilizadas
 
@@ -52,10 +64,10 @@ El repositorio también incluye programas sencillos utilizados para practicar:
 
 ## Autor
 
-**Jasiel Romo**
+**Jasiel Abiezer Romo Soberanis**
 
 Estudiante de Ingeniería en Sistemas.
 
 ## Objetivo
 
-Aprender y reforzar conocimientos sobre programación y control de versiones mediante proyectos prácticos y ejercicios de prueba.
+Practicar programación, control de versiones y gestión de repositorios mediante proyectos sencillos y ejercicios de prueba.
