@@ -35,13 +35,13 @@ Funciones:
 
 #### Captura de la aplicación
 
-![Calculadora Web](capturas/calculadora%20web.png)
+![Calculadora Web](capturas/imagen%20de%20calculadora.png)
 
 #### Estructura del proyecto
 
 **HTML**
 
-![HTML](capturas/calculadora%2web%20html.png)
+![HTML](capturas/calculadora%20web%20html.png)
 
 **JavaScript**
 
@@ -49,7 +49,7 @@ Funciones:
 
 **CSS**
 
-![CSS](capturas/calculadora%20web%20css.png)
+![CSS](capturas/calculadora%20web%20style.png)
 
 ---
 
